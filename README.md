@@ -99,6 +99,6 @@ Después de evaluar las cuatro tiendas en todas las métricas analizadas, se ide
 
 ---
 
-## 👤 Autor
+## 👤 Nota de autor
 
-Desarrollado como parte del programa de formación en Data Science de **Alura Latam**.
+Este challenge fue desarrollado como parte del programa de formación en Data Science de **Alura Latam**.
